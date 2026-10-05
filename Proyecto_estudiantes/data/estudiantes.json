@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lyan",
+        "apellido": "Lara",
+        "email": "lyan.lara@gmail.com",
+        "carnet": "EST001",
+        "notas": {
+            "Ed.fisica": [
+                18
+            ],
+            "Mecanica": [
+                20
+            ]
+        },
+        "materias": [
+            "Ed.fisica",
+            "Mecanica"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Angelo",
+        "apellido": "Lara",
+        "email": "angelo.lara@gmail.com",
+        "carnet": "EST002",
+        "notas": {},
+        "materias": []
+    },
+    {
+        "id": 3,
+        "nombre": "Angelo",
+        "apellido": "Lara",
+        "email": "angelo.lara@gmail.com",
+        "carnet": "EST003",
+        "notas": {},
+        "materias": []
+    }
+]
